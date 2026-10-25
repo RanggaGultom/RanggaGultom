@@ -37,9 +37,9 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/RanggaGultom/RanggaGultom/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <!--img src="https://raw.githubusercontent.com/RanggaGultom/RanggaGultom/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  /-->
   <img src="https://raw.githubusercontent.com/RanggaGultom/RanggaGultom/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/RanggaGultom/RanggaGultom/trophy-output/trophy.svg?theme=nord&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+  <!-- img src="https://raw.githubusercontent.com/RanggaGultom/RanggaGultom/trophy-output/trophy.svg?theme=nord&no-bg=true&no-frame=true" height="150" alt="trophy graph"  /-->
 </div>
 
 ###
